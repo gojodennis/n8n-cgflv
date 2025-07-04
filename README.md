@@ -1,4 +1,4 @@
-# Content Generator Bot
+## 🎇 Content Generator Bot
 
 Turns longform YouTube videos into captioned short clips.  
 Hands-free, automated, built for speed.
