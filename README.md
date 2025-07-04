@@ -58,15 +58,6 @@ Import directly into [n8n](https://n8n.io).
 
 ---
 
-## 🧩 Dependencies
-
-- `axios`
-- `googleapis`
-- RSS parser (internal or via n8n node)
-- Vizard API (external service)
-
----
-
 ## ⚠️ Notes
 
 - Vizard may return multiple clips — filter logic included
